@@ -1,0 +1,82 @@
+Here’s a structured summary of the conversation from **11\_8.txt**:
+
+---
+
+## **Meeting Context**
+
+* **Purpose:** Discuss open setup tasks for a new project, including access, environment configuration, and pilot application selection.
+* **Participants:** Multiple team members including Vishwa, Nishant, and others.
+* **Duration:** Quick daily check-in planned for the whole week to keep momentum.
+
+---
+
+## **Key Discussion Points**
+
+### 1. **Access & Environment Setup**
+
+* **Jira Setup:** Need to create and assign project stories.
+* **Development Server / Enrollment:**
+
+  * Namespace access required to start coding.
+  * Access still pending despite ongoing follow-up.
+* **Converge UI Access:**
+
+  * Team lacks ability to log in and see the UI screen of the application.
+  * Inspire portal roles (basic and Inspire roles) need to be assigned to allow access.
+* **Inspire Integration:**
+
+  * Standalone application available for initial testing.
+  * Later integration with Inspire will require coordination with the algorithm team.
+
+---
+
+### 2. **Pilot Application Decision**
+
+* **Requirements:** Medium-complexity app with some dependencies (e.g., Java or Node.js libraries, one database connection).
+* **Options:**
+
+  * Use an existing internal product for initial testing (already set up).
+  * Choose a suitable app for pilot phase later.
+
+---
+
+### 3. **Jira Story Creation**
+
+* Role restrictions mean not everyone can create stories.
+* Action: Check with Suraj/Susan on granting rights to create Jira stories.
+* Interim: One team member will create stories and assign them to the lead.
+
+---
+
+### 4. **Wildcat Project Access**
+
+* **Wildcat 32 Data Access:**
+
+  * Requires cluster information.
+  * Assigned to Vikram to provide access.
+  * Status: Recently escalated, Vikram to confirm readiness.
+
+---
+
+### 5. **API Subscription**
+
+* To call APIs in different environments (including non-prod), team members must:
+
+  1. Go to NS Infra portal.
+  2. Subscribe for API access.
+  3. This provides access to all environments via checkbox selection.
+
+---
+
+## **Action Items**
+
+1. **Grant Converge UI & Inspire portal access** to team members.
+2. **Resolve namespace access** for development enrollment.
+3. **Confirm and set up pilot application** with required dependencies.
+4. **Enable Jira story creation** for additional team members.
+5. **Get cluster info for Wildcat 32 Data** from Vikram.
+6. **Ensure team subscribes to APIs** for environment access.
+
+---
+
+Do you want me to also create a **stakeholder-friendly status update email** from this conversation so it’s ready to share? That would make this instantly usable for reporting.
