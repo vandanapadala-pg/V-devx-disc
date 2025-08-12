@@ -1,0 +1,172 @@
+
+Hey, guys. Hey, Pam. Hi, Priya. Hey, Anandla. Hi.
+
+Hey, Priya. So I think most of the things we already discussed, right, we have one thing is that we need to set up the stories and other things that you said we can. Okay. For that one, can you just give me one second? Let me let me give you the access.
+
+You can share your screen, and I I'm walking through how to create stories. Okay. Okay. Just let me give you all the. Just give me one second.
+
+So give it to me and Vandana, both of us actually. I can only give it to one show. He's going to create the stories, Okay. Just give me one moment. Right now, I don't have access to this link.
+
+Let me check once. Okay. Enterprise login access, I don't have right now. If you enter the user ID and password, what does it say? It's Yeah.
+
+What does it say? Yeah. Because I think Anyway, I go maybe you can Google. Right? Oh, it's just.
+
+If I own that, I don't own them. Okay. Can you see my screen? Share your screen. We cannot yet see it.
+
+Oh, okay. Let me Yeah. We can see it here. So your password is invalid. It's it's saying this for my Verizon login ID.
+
+ID and password. No. No. No. Okay.
+
+What is your, another two d v password? Can you drive it? No. This one is a SSL issue. Right?
+
+You gotta reset your, password. No. No. No. No.
+
+I mean, see, you are able to log in to your laptop now. Right? Verizon laptop. It is the same password. Which environment you're trying to access?
+
+Which environment is this? Is it production or it is a prod environment that is, this is a URL that she is trying for. Let me give you the URL as well. Okay. What is the URL you are trying to do?
+
+Can you please make URL here? Can you close this open a incognito tag in fact? That's a dev URL. You are connected to VPN, mate. Yeah.
+
+I am connected to you. I'm in friendly. What do you mean you are? So do you need the dev environment or production? You're accessing dev environment.
+
+The ping that that that that you are leaving this tab. Correct. So for creating the user stories, we need the development. Right? I have or should we create in the production?
+
+No. No. So you can go to the URL? No. So I just go to the URL and open incognito and go to the URL.
+
+In I'm not connected over the Yeah. VPN. Yes. I am connected over VPN. That's correct.
+
+So I shall I open an incognito window and then, Yeah. Open incognito window and then paste the URL and pending you in, right. Okay. Yeah. I mean, I'm able to access actually.
+
+This is a different one then because it's not asking for that, non fraud. And she said to log in now. Okay. This is the URL for Inspirea. So Inspirea, you already have an access.
+
+Now can you go to my work? Okay. Okay. Can you click on show on? So there is something called group MVPs.
+
+Yes. Okay. There is a search bar there. Yes. Right on top of the grid, getting type developer experience.
+
+Developer space experience. Automated all of it. Okay. There is one MBT. Can you click on the six six four one?
+
+You can see my screen. Right? Okay. Sorry. Now can you copy this?
+
+2339. Yeah. First one. Jenny, just copy the first one. Okay.
+
+One second. Okay. Okay. Just copy. Yeah.
+
+Yeah. Now close this. And can you click on my work now? Click on mine. Yeah.
+
+Can you go to feature work assignment? First tag. First timing that my work. Yeah. Okay.
+
+Now 3328. Open for stories creation. Can you click on that? Mhmm. It's loading.
+
+Okay. Okay. Can you search now in that search? You did copy some feature ID, right? Yeah.
+
+Can you place it here? No. Could you could you take the story stories? It might be because these meetings not being finalized. 19605.
+
+Can you click on that 19605? There is, the 1960. If you go feature, there will be something called show on. Show all. Okay.
+
+One second. I see. Okay. Yeah. 1965.
+
+That's correct. Okay. Can you click on, this one? Wait for the grade to low? Okay.
+
+Can you search that feature now? Yes. Now I can see git repository cloning and branch checkout API. Right? I'm seeing here.
+
+This one. Is this the one? Yeah. Yeah. Yeah.
+
+This is the one. You should get it in the. It is there like F33323339. Right? No.
+
+No. No. No. No. No.
+
+No. No. No. No Okay. Can you click on 3655?
+
+3655. Here? No. No. 3655.
+
+Okay. It's stories in the This is the number group. Yeah. Yeah. This one.
+
+Yeah. Can you search for the feature again? It is there. Okay. It's still quiet.
+
+Why is assignment not coming up for you then? Uh-huh. Can you are you not supposed to create a feature? I mean, just Assign the algorithm is what's going here. Right?
+
+This is assigned, We have to is he going to create the stories for this? Just just wait a second. This is what? This speaker is what? 23339?
+
+Yes. Just give me one second. Okay? Yeah. Yeah.
+
+Just give me one second. Okay. This is why. This has been picked up by Amitam. Just give me one second.
+
+Okay. Can you refresh your screen and search for this feature now? So that's that's it for 3328. Rephrase the entire screen. So, you have been given a role of system architect here.
+
+Mhmm. If the system architect is to current credit story and inspire. Okay. If you Google my work, okay, if you Google Yeah. Okay.
+
+Click on this feature. Okay. Okay. Now you see 3329. Right?
+
+There is a count in this. Click on the 3329 number And search for the feature. Okay. Sorry. So it's 23339.
+
+Mhmm. Okay. Now you see those three buttons. Right? Yeah.
+
+Yeah. Can you can you can you click on this? Mhmm. K. The first option will share a sign.
+
+Okay. Can you click on this one now? Okay. Yeah. Yeah.
+
+And also do for other features. Okay. Yeah. Click on yes. So what will happen now is now you see something for my teachers.
+
+Yeah. And you see account for one. Okay. Yeah. Here group k.
+
+Can you click on that one? Yeah. One has reduced. Here. No.
+
+No. On the left hand side, there is one right on the right on my Yes. My Okay. Okay? Okay.
+
+So I think you should be good now. Yeah. Yeah. So there is only one feature that you have created for this to pair. Okay.
+
+There are multiple features, not just one. So, Vandana, do one thing. Can you close this one? Yes. Okay.
+
+And there is a global search. Can you close this? Okay. There is a global search right on top. Can you search for this feature to triple three nine?
+
+Show all and then do it or here? No. No. No. Not there.
+
+Not there. Here only. Here only. Right right on the top. Search f hyphen two triple three nine.
+
+Five five. No. F hyphen. No. F hyphen.
+
+Okay. Okay. Okay. Okay. Now if you go to the parent here, right, see based on the feature, Children and Okay.
+
+There are 10 features now. Click on children now. So there are these 10 features that were created in Pytest. Mhmm. Okay.
+
+So what you do is subsequently, one by one, take all the features and then start creating stories from Inspire itself. Yeah. Okay. So first of all, during which feature, we are starting that work first on Vandana. Okay.
+
+Okay. So you know for the first print, what are the, things that we are going to tell you, Varun. Okay. So take the corresponding feature and start creating the story under practice. Okay.
+
+Okay. Okay? Yeah. If you have any issues, working with the story, just let me know what might have happened is Amit might have took these features to himself. Right?
+
+And there is only one owner to one feature. So I tell you that go to the DB and change it. Okay. Yeah. For all this features.
+
+One, then I know. Yeah. But if I if I face any other Obviously, it's too weird to do down, Jira stuff. Right? So what is the GIF here?
+
+And then What is the yeah. So what was it here again? Once the project is created so which project will the store is created? Do you know? Project will be under, I think, until the where, Mario, what is, for our work stream?
+
+Do you know the project name? No. No. I'm not sure. Okay.
+
+Please create it under That's fine. So the way you can find it out. Yeah. Yeah. Even I can find it out from the email.
+
+No. No. When once she creates the stories, we can easily find out that it's not a problem. Yeah. But but one question for you.
+
+So can I create a scrum board for our team at least or how's it? Scrum board for the team, I don't mean if you have that kind of access for generating report for that data project, Mishra. So that is something I don't know. But I think you can. Yeah.
+
+Because I just thought I'd create a new scrum board, at least. If not a new project, at least create a new scrum board and add our daemon from the scrum properly. Right? So that is why I asked. K.
+
+Going forward, the way it's going to work in Inspire is everything is, created. Everything that it's supposed to be one comment, it's going to be get created and then Inspire. So I don't know if Inspire, within that year project, you'll have a permission to create a board or not. That's something we will check later, Vishwad. Okay.
+
+Okay. Not a problem. When we anyway, we will run it like scrum whether we create a board or not. K? That's fine.
+
+Okay. Okay. What are the other thing that we wanted to discuss? So we are good on number one, access. Number two, we are good on storage creation.
+
+Yeah. Era one. And, yeah. And you said that for, NS using NS Infra, we can create the dev server setup, and I think we discussed that as well. It is already set up.
+
+Okay. Let me scroll. So this is done? Taking over. Yeah.
+
+This is the same thing for going forward. We need to do. Thanks, You have any questions, Gondra? I think, this part is done. Right?
+
+The story creation, this one is done. I'm just stopping the screen share. Okay. Let me start sharing and to how this is where NSYMPRA works. Okay.
+
+Do you move the URL for NS input? It's probably gonna Oh, we're just trying. NS inputted for example, that's not is it? It's not working for me. Yeah.
+
+That's it is it's not there in production. We have a utility and the equivalent for this. Let me post it here. I think everybody would be getting this. Okay.
+
+Tennis in prod. Let's see if I have to create a new domain API. Domain API is nothing but the, node is for it. It's stand alone.
