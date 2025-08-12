@@ -1,0 +1,360 @@
+
+One question for you guys. Everybody has access to it's very, you know. Yes. Okay. Yeah.
+
+I have for me and Muscan and Fardana. You guys can. No. And we are still not able to log in to that enterprise. And he asked he asked for enterprise ID.
+
+Was it for that? Yeah. Correct. But where can we find the enterprise ID? I was trying to search it.
+
+That is easy. Okay. It's only a Slack. You should be able to see on Slack. Okay.
+
+Slack to see. To see through Slack. What I did was I just clicked home here. Open the browser, clicked home. Okay.
+
+And there you will see your icon on the right hand side. When you click here, it will show everything. Okay. I I don't I don't think we are able to see the Devictelli catch up screen right now. Okay.
+
+Let me see. But I I have found it in my Slack. Okay. Okay. So, we will ping him on Otherwise, go to your browser and click on home.
+
+It'll come inside .marizon.com. Okay? Okay? When you click on this part, it will be Okay. Okay.
+
+That's all? Okay. Yeah. Can you, I I didn't get what you, what what you are saying because Any in any browser, just click on home, this home button. Okay?
+
+You'll come to insight.verizon.com. Okay? Okay. Here you have your icon here. User profile.
+
+Yeah. I like my user profile. Can see your account. Yeah. That I know, but, how does that help with the login?
+
+Out of the account. What do you mean? Adi, it's, Prayag requested those, Prayag requested that information so that he can provide login. Okay. Okay.
+
+So I have to share this info with Prayag, right, in that case? Yeah. There is a chat that he has requested on. Okay. So in this one, NPS developer experience.
+
+Right? So me and Vaishnav, we have shared. Okay? Got it. So if you guys can share, it will be easy.
+
+Okay? Okay. Okay. You know, they're in the chat. Right?
+
+Yeah. Yeah. Yeah. Yeah. Okay.
+
+So I was just wondering whether I have to ping him or like No. No. Put it in the chat. He will give it. Okay?
+
+Okay. So that is one thing. And enrollment, those are pending. So we he said to use a Nasim for. Right?
+
+For in Ramon creation? So, like, did you confirm with, Prayag? Like, was this yesterday? Yeah. He said to use an Async Pro.
+
+Oh, okay. I I mean, I was not part of the Just yeah. Just talk to Prayag once, okay, and start using Async Pro for this. Okay? Okay.
+
+And the third thing is you have got access to everything. Right? The Converge UI and everything. All the kids set up. Git, he has given you access and you verified everything.
+
+Right? Yeah. For the Converge, I think I was even able to set it up locally and run it locally. Okay. So this is done.
+
+Okay. We have to check for the back end. Right? Like, this other one more URL he gave. So I'll check that today.
+
+Yeah. Yeah. Please do it. Okay? Yeah.
+
+Okay. Cloud provisioning setup. What happened to the name space access to the cluster names? Yeah. Vishwan was able to, get the, like, key added us to the names, the Adam group.
+
+And also, I was able to find this, OpenShift console URL. So I think start a core instance now? No. No. I just was able to find the, URL because, prior to he they team my board, but they didn't.
+
+So I was looking around. So I found one link, then I added our host. So I'm able to see the logs, so I just need to, run the coder and, debug it. So today, it should get for most of the day, it should get fixed unless Just put it in progress. Okay.
+
+Yeah. So and also one thing, where are we on the Git integration? Sashank, there. Yeah. Vishwan started, trying out with Coder.
+
+So, I spoke to Ganesh also yesterday. Ganesh was like, we have to use NCP only. Mhmm. Yeah. First time, I'll integrate with Coder and then later on we can That's what I said.
+
+They'll do us well. Right? They'll use NCP. Okay? So Yeah.
+
+So, Shashank, yesterday, we were talking about this design. Right? What, Ganesh told, it was not aligning with our current one. Right? Oh, yeah.
+
+Ganesh told that, once the code and instance is formed, we have to send that URL to UI. I don't know for what we'll be sending. To which UI. Okay. To our UI?
+
+Yeah. To our UI. Oh, that is for storing it for future reference. Right? See, tomorrow, for example, if the quarter enrollment crashed, do you have en do you have ways a way to continue the work from the where he left off.
+
+Right? Mhmm. Or that way to send that URL back to the UI. Okay. But, okay.
+
+You can do it. I mean, see, how would you spawn the enrollment, respond the enrollment to something else happening? My computer is trying to how would I respond that problem? You need that URL. To give that button.
+
+Right? Like, start or something like that. That's So in that button, in that particular, you need to redirect to that particular URL. What you got from that? Yeah.
+
+Yeah. Okay. So that is what I'm saying. See, you need to check, okay, if that if that URL is empty or not. Okay?
+
+That URL is empty, then, yeah, you can create a new instance. Okay? If you have already stored that URL into the user profile, then you can launch that URL. You got it right? Okay.
+
+Yeah. So yeah. That thing also we have to check with how can we send from Coder to UI. I'm checking on this coder MCP what all tools we have, so maybe we can figure out from that. It I don't I mean, it's possible if we were not able to do that, then at least we can, point, like, move, redirect the user to the Coda USKIN where he will be able to see his workspaces and, relaunch from there itself.
+
+Yeah. I mean, see, any of these two should be done. Okay? Yeah. See, first, the best option is to go back to the same workspace that he was.
+
+Only now. Yeah. Yeah. But if you cannot go at that workspace level, at least go back to the coder and show all his workspaces. He can choose something.
+
+Okay? Mhmm. Okay. Yeah. It should be good.
+
+K. And coming back to that UI screen design. Where is it? Actually, I put it in the trial. Right?
+
+So this is the home page? Yes. Yes. Okay. So different scrum teams, he will show see that.
+
+Okay? And what is this? Is there another home page? This elements. Active workspaces which are there.
+
+Yeah. So I think for here, we have to send back the URL. Yeah. For this, you need the URL. Yeah.
+
+And you said that you are going to share it or show it in the coder only. Right? Now what things here? And also we can show. I mean, we can make a call to coder and fetch the URL.
+
+It's not like we have to send the URL. Yeah. I mean, those were like the two options. If the first one doesn't work, then we will redirect them to Coder. That's what we are planning to do.
+
+Right? When your Coder shows up, I don't think. You should see again. Guys, if Coder is showing up a screen similar to this Mhmm. You don't need to design a screen like this.
+
+Okay? Yeah. Exactly. It's a waste of effort. So I think this is more than enough.
+
+Right? Yeah. Only this page is enough. Yep. Okay.
+
+We got that. What is this high medium and all? What does that mean? That is Jira Jira Priorities. Jira Priorities.
+
+Jira Priorities. High priority. Medium. Yeah. We sent her the UI.
+
+Yeah. Yeah. Okay. So ideally, we show it shows a song. It shows a song status.
+
+You will show everything. Yes. Everything within progress on top. Okay. Okay.
+
+So, one question. Like, the dev setup. Right? The dev, you mean for our, back end and UI which, we are working on. Right?
+
+The dev setup is for that? What do you mean? What are we talking about? So Muscan and, Shashank, they are working on this UI. Right?
+
+So you, there's a point second point where we have to, where we are setting up the dev servers. Yes. Correct. So that's what that server is c. Once you set it up for the enrollment in your local okay?
+
+We need a development server where you can deploy everything and do the testing. Right? Yeah. That's what the new service. Okay.
+
+Did I answer it properly, or did they not understand the person at all? No. No. I'm I was, like, it's yeah. I understood it.
+
+So I was thinking about, like, if it's for the, coder thing or, it's for the, UN back in that everything. So for everything, actually. Okay? Okay. Like a development environment, total development enrollment setup.
+
+Okay. Okay. So codel should also have multiple enrollments. You understand. Right?
+
+Yes. Yes. Yes. Yeah. That's what I was talking about.
+
+Yeah. But, see, this is not going to go into production again. I'm telling you. Okay? Mhmm.
+
+This will all no. No. Hold on. This code will always be what you need to go in raw material. Okay?
+
+Yeah. It is not going to go into even a site environment. Yeah. Okay. So we need to dispel these things.
+
+Okay? When you are doing when you are saying that it is released to production, what does it mean? It means nothing. We are not even deploying it in the SID. We will always be using it only in the dev server.
+
+Correct? We will be using it in the dev server, but our coder instance, like, suppose we have a template for our coder. Mhmm. So this coder will have three environments. Right?
+
+Why? So, if, like, I'm developing I'm working on coder to, it's already deployed. Like, developers are already using it. So if you want the developer, like, or developer change a few things on it, then I need some dev environment for that. Right?
+
+That's what I'm saying. Gaurav should be there in the dev and run. And then, like, what will be the, live users be using? What do you mean live users? Like, suppose we develop the code right now See.
+
+See. There should be two, instances of code. Oh, yeah. That's what I'm telling. Yeah.
+
+But both in the development only. It is not in some other enrollment. Okay? Okay. Okay.
+
+So the ones which you are using for developing the dev x, only our team will have access. Okay. Okay. But the ones which are open for other developers will be the dev environment but a separate. Okay?
+
+That's what I'm gonna say. Okay? Under separate servers. Okay. Okay.
+
+But it will definitely only be in the dev enrollment. It will not even go to a 30 enrollment or 88 enrollment or any other enrollment. Okay? Mhmm. Because quota, it is enough if you have it in the demo enrollment.
+
+Correct? All you need to do after that is package and put it put the jar files only in the next enrollments or in the quarter as such. Okay. Correct? Yep.
+
+That's what I'm trying to say. Okay? Okay. So when you mean that the deploy development is complete, we can immediately give it to some developer team, developers in some team to start working on it and check how it is working. That's what I'm saying.
+
+Mhmm. Understood. Okay. So everything is on your golden hands right now. So get this golden thing done quickly.
+
+Yes. Yes. Yes. And first response, sir. Shashank.
+
+Yeah. Sorry. Yeah. Yeah. Hi, Vishwa.
+
+Actually, we are discussing about the UI. Right? The one updated one that you showed right now in the folder, the new iframe. I want to discuss with you regarding the user story starting their journey from the UI part, like providing the URL and then the whole flow. And, do you think that, like, we can connect after this call before the Yeah.
+
+We can connect. We can even discuss in this call. K? See, I mean, I don't know whether everybody knows or understands the journey. Does everybody, first of all, have a journey?
+
+I think it will help if they are also part of it because some of the aspects of that UI that they are developing. Right? I want to, know the details to flush out the, user side. But before that, these guys have discussed it with Ganesh as well. That's why I'm asking.
+
+Okay? Okay. So what is the change that you are seeing out of here, guys? Tell me. Same.
+
+I don't think there's any change as of now. Just he told us to send back the URL. Okay. So we can see that is in the details. Okay?
+
+Implementation details. Okay? So probably when you say the sequence diagram. Right? Mhmm.
+
+Okay. So when you come here okay. See. Let us start with that. Okay?
+
+When a developer wants to use it first. Okay? First time, he'll be provided with the registrations now. From the home page, he first goes to the home page. Correct?
+
+Mhmm. Yeah. Correct. From the home page, he clicks on launch enrollment. Correct?
+
+That is the first thing that he will do. Correct? Correct. And there, you will be providing with that registration page. Correct?
+
+Mhmm. Yes? Yeah. Correct. Okay.
+
+So this registration page, you will get all the details and everything. Okay? And then this is what will connect to Inspire AI and, this, what is that, coder enrollment. Correct? Yeah.
+
+And once the registration details are entered, the coder enrollment will come up. Mhmm. Correct? You will be using Terraform to set up the enrollment. Mhmm.
+
+Yeah. That will be a resume. And Terraform template. Correct? Yeah.
+
+And from there, you use MCP to connect to Jira and GitLab. GitLab for, retrieving the code and loading the details. From UI, we'll connect to Jira. Okay. Yeah.
+
+Yeah. From portal, you don't need to connect to Jira. It just directly connect to Yeah. So every time I get it from main, no? So we'll be cloning from main only.
+
+So main or master either one. So how do you make it as the tool But you will create a separate branch for this. Right? Yeah. Yes.
+
+Transcription will be separate. We can name accordingly, like, features or something, and then that will be That's what I'm saying. Okay. Send value, it will show under Jira, but I don't know. Those fields are are not enabled here, it seems.
+
+So we don't have to worry about that. If they enable, we can do that also. We can see how we can That's what I'm seeing. That's what I'm seeing. But it is not there.
+
+The field itself is not there. Okay? Because there will be a GitLab link or development something it'll show. But that field itself is not there. So that's fine.
+
+So you are not writing back to Jira. You are just reading from Jira. Right? Yeah. And for that, write it right back.
+
+But where to write that? No. No. Let's and that's I understand. But as of now, you are just reading from Zira.
+
+Correct? Yeah. Okay. When when you are using or when you are reading this data from Jira. Correct?
+
+This is only for the UI part. Correct? Yes. And is there a temptation to launch the coder that we are thinking about? Like, only when the ticket moves to in progress or something, like, he should be able to launch the coder or something like that or what?
+
+Yeah. We have to give that condition. Anya, you can call out that part. Okay. This is an implementation detail.
+
+Okay. We need to think about that part. Okay. So are we checking whether the ticket is more in progress before launching the enrollment? So what we can do, we can just show the buttons only for the tickets which are in progress or something else.
+
+If it just created, then we can just show them the ticket and not the button. Okay. We can do that also or maybe Yeah. That is fine. I'll disable it or do something.
+
+Okay? No. Disabling it would be better. Yeah. Because if they hover around, you can say that move the ticket in progress to enable it or something.
+
+Something like that to us. If it is not visible, people will be confused. Okay. So that is the first part. Okay?
+
+So just wanted to go with the go through with the implementation details with you guys. Okay? So first part is you connect to the and in the home page, you need to make sure that the ticket is in progress before you launch the quota enrollment. Yeah. Okay?
+
+K. And when you launch the quota enrollment, you load all the dependencies and everything, get the code from GitLab, and load it across. Correct? Yeah. And you are not updating back anything to Jira.
+
+From coder, he can commit back to GitLab. Right? Yeah. For that, you are using MCP again to push it back to Jira? Yes.
+
+Yes. No. Let's stop committing. Yeah. In that manner.
+
+Yeah. Manual. MCP will come into the picture when it's agent. As you commit, it will support Now now you are just loading or connecting to, GitLab for MCP only. Right?
+
+Yeah. Just connecting reclining and all is via, MCP, but pushing the pushing or committing, the All those. Yeah. Manually. Right.
+
+So they don't have any agents right now. Right? Like, it's manual. Okay? But, we need to auto save the work at specific intervals of time.
+
+Yeah. Maybe every thirty minutes or something like that. Mhmm. Okay? So that will be a Versus code feature.
+
+Yes. Yeah. But I asked someone to analyze this. Right? Whether it is how to do it?
+
+I don't remember who it was. Okay. But nobody wants to take it now? Okay. We can't save it.
+
+Like to save it? Yeah. See, I mean, every thirty minutes, even if the developer is not saving yet, We need to order save it in the quarter enrollment. Yeah. I I mean, yeah, we can check that.
+
+I'll check that. Oh, I want one person to take the responsibility. Last time also, everybody said we can check that and nobody checked it now. So I want one person to take the responsibility on that. That.
+
+Okay. Yeah. I'll check that. Okay. I'll I'll ask you.
+
+Okay? Yeah. Yeah. So that is one thing. So for the first print, that's all it is.
+
+Right, Vandana? Or is there anything else? Yes. Yes. So for the next call at twelve, which is at 2PM, anything that we need to, you know, raise in terms of that we need immediately?
+
+Yeah. Yeah. Nothing like immediate, but one is the pilot application that we need. Okay. Yeah.
+
+Yeah. Yeah. So GitLab integration in progress with the code, namespace to solve the code was in progress. So this is done. This is the one that I need to ask.
+
+Dev servers can be used in a sintra to do it. I think he said yes. I forgot, but let me ask again. And stories, I will get them created today or tomorrow, guys. Okay?
+
+So that we can start the sprint. So you already have the text and everything. Right, Vandana? Yeah. Yeah.
+
+So I want to sit with you, discuss with you, and make necessary changes because I didn't see this new UI, you know, more wireframe image. I I saw it in this call right now. If need we need, like, modify because I had generated this based on the MVP document, because Yeah. That is fine. That is fine.
+
+That is fine. For you and your own, we need to create a couple of user stories. Yes. Yes. Yes.
+
+Yeah. We can we can, sit today and tomorrow, and we can finish the Yeah. Like, significant portion of for the for for for this week, whatever needed. And Friday, you have set up a call. Right?
+
+Mhmm. Or not? When is the sprint starting? It is on Monday. Right?
+
+Yeah. Monday. So let's call on Thursday. Okay? Mhmm.
+
+Within the team to go through the user stories. Sure. Sure. That would be great. So that we can add any individual user stories to people and they can start working on it.
+
+Yes. Okay. Yeah. Any other question, anyone? Sorry, guys.
+
+No. Nothing. I love now. Okay. So, let me know, Vaishnav, your progress on the Yeah.
+
+Sure. Yeah. Yeah. And, and also, Ashank on the GitLab. Okay.
+
+Sure. Sure. I'm a pretty cool So these two are very important. And after that, I have server setup, I think, should be easy if you have the data to try and all these things set up for our project and so. Mhmm.
+
+Yeah. Hope so. Any of you guys used the before? No. No.
+
+I also didn't use. Yeah. You guys are as terrible as me. Okay. That is fine.
+
+K. Let's find out someone. Hey, Vaishnav, can you do me a favor? Yes. Do you know, can you find out anybody who knows the API details for NSintra?
+
+Like, from the back end side. Yeah. I can. From the back end side. Because if we need to integrate with NSintra.
+
+Right? Mhmm. We need to do it from the back end side. So I want to understand that. Just find out because that is for the next phase, but I wanna make sure that we are good with it.
+
+Sure, sir. I understand. And also one more thing we are integrating in the next phase. One pipeline. So, Shashank, can you just take it up and just look around and see anyone how to integrate the application with one pipeline and all this space?
+
+Sure. I think Ruben came here. I'll check with him once. Okay. Yeah.
+
+Ruben will know. Okay? So just talk to him. Sure. I think there is two applications that we need to integrate after this.
+
+Right? Mhmm. Yeah. Okay. So before going to one pipeline, I think we need the infrastructure ready.
+
+So I just got NS Infra. So Vaishnav is gonna work on, find out how to integrate NS Infra. Same way you just find out how to integrate one pipeline. Okay? Okay.
+
+We will both do both in parallel only. We'll not wait for one to complete over the other. Okay. Cool. I'll check with them.
+
+I'll check with you by next. Okay. I don't have anything else, guys. So, when I see week one to two workshop requirements analysis is complete, initial design and documentation, Yeah. Nearly there.
+
+Onboard the project team. Are we there done with that guys? Onboarding everybody has access to everything that we need to start the work? Yeah. Yeah.
+
+Okay. And then the first target application. Okay. Second sprint is where you will start with the UI. Probably, who's who's good in UI in our team?
+
+Who wants to take UI? I'll put it the other way around. I have never worked on UI, but, I mean, Centric won't I've never actually worked on UI other than my college projects. I can take it, but I'm working on this code. I like if someone Yeah.
+
+Yeah. Yeah. Yeah. I've coded code, and then I can, take the URL. You take code now.
+
+Okay. I would assume that you will complete the code integration before the sprint starts. That was my assumption. Okay. Okay.
+
+Okay. Before this Friday, if you can complete the quarter integration You won't Okay. But then really one person cannot complete it, you have we need two people. Okay? I don't know whether you have seen the markups, guys.
+
+I showed you. Right? If you want to do it in one sprint, we have we need two people to work on it. Okay. There are two screens.
+
+Right? I'll start the UI, and then, like, if I need help, I can reach out to my son or Shashank. Okay. So For an effective UI, you can do the UI then. Okay?
+
+And, the next one is, git integration. Anyway, Shashank is doing. Vaishnav will take care of the coder within this week, then what we can do is we can set up the enrollment question. Yep. Yep.
+
+I'll, You and Neil can work on setting up the development environment? Yes. Yes. Okay. Yeah.
+
+So that you can get it up and running. Okay? Yep. And the next create this UI dashboard again, must consult you. She will take care of all the UI.
+
+Yeah. I mean, I'd I'll start and then see, like, if it's too much work, then one of them, like, will have to help me. I'm sure I we have enough bandwidth. Okay? It's a plan.
+
+It's a relaxed plan if I I mean, I don't know whether you guys agree with this. It should be a relaxed plan if we do our work properly. Not sure. It's upper pressure. Yeah.
+
+Okay? Mhmm. So we are taking only a few things in each sprint. So if each one of you can focus on one thing, we can easily get this implement. Okay.
+
+So you are saying here you need to get the details from Coder UI back to device UI. Right? Mhmm. Yeah. That is the only thing that we didn't do here.
+
+Right? Yeah. Work and I close the enrollment. Now I come back and click on that particular Jira link and click on launch. I want one week that particular Jira ticket to be opened and half halfway through the work that I have, that should be open.
+
+We can do that, but, you're saying about us from CODER, we don't need to send it. We can fix it from front end only. Okay. Whatever. Okay?
+
+If you can fetch it from front end, that is by We can make a call to CODER it. I think anyhow, we we have to make, I think. MCP call only you can make. Okay. Don't make an API.
+
+Don't make an MCP call and make it and we'll get it. Okay? Yeah. We can do that. Okay.
+
+K. Can you guys solve this? Any questions? Nothing from my side. Yeah.
+
+I'm good from my side. Yeah. Me too. Okay. Wondering how about you, ma'am?
+
+Yeah. Actually, my question is, I want to connect with you and start with the stories. And then I have few more questions. Maybe when we are discussing, we can, go through them. Sure.
+
+Don't worry about that. But if you are calling me now, can you call me in my cell? I'll just go for Right? Yeah. I will go back to you.
+
+Just call me in my cell, okay, if you don't mind. Okay. Definitely. Definitely. Yeah.
+
+Thank you. Yeah. Thanks a lot. Yeah. Thanks everyone.
+
+Thanks, missy. It's just start working on it. Okay? Let's not lose time. I know that the Sprint has not yet started, but if you can okay?
+
+Sure. Yeah. Yeah. Thanks, everyone. Yeah.
+
+And just call me anytime if you need any help or anything. Yeah. Yeah. Sure. Yeah.
+
+Sure. Thank you. Yeah. Bye. Thanks.
+
+Bye. Bye. Hey.
