@@ -1,0 +1,48 @@
+
+The port, we are hosting the Python slash portal. So with this code, right, we are going to go and create a port in the virtual space. Right? And that is going to be interfaced within whatever ID I'm using. We'll be a support.
+
+We'll any gateway ID? So what Narelle is asking is, let's see if I do some okay. So let's see if I add some code. If I define an endpoint, so am I supposed to test using local post or am I supposed to call It will not separate post. It Yeah.
+
+But that we can, get it from the coder environment. Okay? So that's what I'm trying to say. Okay. So maybe if we can print in our console log, right, that, okay, here is the here here the server has been started, whether with UI or by then, here is the go and test.
+
+And if Angular viewed it for a site, like, click on local host to view your application. The UI. Yeah. Yeah. Similar to local host, we have a separate URL.
+
+So local host. Okay. Yeah. We guys, if you're running what info? Let me check here.
+
+Sorry. You were saying something? You were saying something, Guilfoyle. You couldn't tell the right thing. No.
+
+No. No. No. I'm saying if we're using the hot, local cost, then it defeats the whole purpose of this quarter and all this set up. So that's Correct.
+
+So you're saying something with, right, anything? Yeah. So what what I was saying is, cluster access. So the way it works is this, Vishwa. Whatever URL I have for OCT.
+
+Right? Mhmm. Those belongs to a very different cluster. And I think whatever, as per what Ganesh was telling. Right?
+
+Cluster is going to be different and there is a name still going to get provisioned. Correct. Name What's the word maybe that mean access stuff. Okay? Cluster, we know that we cannot get the full access, but namespace, we need admin access for.
+
+Correct. Correct. But cluster URL, we need to get from somebody. Correct. Correct.
+
+Correct. There is something we get from There is a chat running. Okay? Not sure whether you are a part of that chat. I think you are a good Ganesh.
+
+I'm a part of the chat. Let me check. Okay. Let me check whether you are a part of that chat. Yet today, Vignesh pinged you of that.
+
+You also replied back. Right? Yeah. That is for, Redo request. Right?
+
+That is for gift membership for that Redo request. Yeah. Hold on. I think there are multiple chats, so I'll I'll find out, and I'll add you, sir, if you are not there. Okay?
+
+Okay. But that is also, Pritra. Yeah. So Internet thing going on for that, actually. Okay.
+
+Vaishnav. Vaishnav. Yeah. Vaishnav. So I did the I did, and then I approved.
+
+But then if you want somebody else to do that, I have them to go through it all. I am the trustees. I can, come and approve those. Okay. I'm just asking What was the name space created, first of all?
+
+And asking of just the name. Yeah. Code or type on the name space already created itself. Code or type on the layer, but then you need to know that URL. Right?
+
+URL to our cluster, OCB cluster plus. What do we need to do in order for us to access that URL? Is there some kind of, another request we need to open up? That is something I don't know. Okay.
+
+Okay. I think I'll, anyway, this day Vaishnav is working on that. I'll ask him to ping you as well. Okay. Just, keep me and, Maril and Google also.
+
+We will. We will. I will ask. I'll ask Vaishnav to work close with you on that. Okay.
+
+So other than pilot application. Right? We should be good on everything else. Are we? Yeah.
+
+I'll invite it up. We didn't go down everything else to start. Okay. He says this is a OCP cluster already. The name space is an OCP cluster.
